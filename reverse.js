@@ -15,3 +15,5 @@ for (var i = 0; i <= arr2.length; i++) {
     var b = arr[i];
     console.log("[ "+a+" - "+b+" ]")
 }
+
+//I just wanna keep my github stick to be honest
