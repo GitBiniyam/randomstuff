@@ -15,4 +15,3 @@ for (var i = 0; i <= arr2.length; i++) {
     var b = arr[i];
     console.log("[ "+a+" - "+b+" ]")
 }
-console.log("burh")
