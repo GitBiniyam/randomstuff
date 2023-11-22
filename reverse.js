@@ -16,4 +16,4 @@ for (var i = 0; i <= arr2.length; i++) {
     console.log("[ "+a+" - "+b+" ]")
 }
 
-//I just wanna keep my github stick to be honest
+//I just wanna keep my github strike to be honest
